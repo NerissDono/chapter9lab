@@ -11,3 +11,5 @@ To practice shell commands, Git initialization, status checking, staging, and co
 
 ## Reflection
 This reflection part was changed for exercise 3.
+
+Edited for the challenge question.
