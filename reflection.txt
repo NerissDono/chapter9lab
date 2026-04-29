@@ -1,0 +1,33 @@
+## Reflection Questions
+
+Write short answers to the following:
+
+1. Why is version control better than keeping many copied files with different names?
+    Version control allows you to track changes, collaborate effectively, and maintain a history of your project's development.
+
+2. Why is `git status` often called a radar, compass, or checkpoint command?
+    `git status` provides a quick overview of the repository's state, showing which files are staged, modified, or untracked, similar to how a radar shows the position of objects or a compass indicates direction.
+
+3. What is the purpose of the staging area?
+    The staging area allows you to prepare changes for commit by selecting which modifications you want to include in the next commit.
+
+4. What is the difference between an untracked file and a modified file?
+    An untracked file is a file that exists in the working directory but has not been added to Git's tracking system. A modified file is a file that has been tracked by Git and has been changed since the last commit.
+
+5. Why does Git need your name and email before committing?
+    Git uses your name and email to identify you as the author of commits, ensuring proper attribution and facilitating collaboration.
+
+6. What does `git init` actually create?
+    `git init` creates a new Git repository by initializing a hidden `.git` directory in your project folder.
+
+7. Why is it useful to write meaningful commit messages?
+    Meaningful commit messages help others (and future you) understand the purpose and context of changes made to the codebase.
+
+8. What did you find easiest in this chapter?
+    The concept of using `git add` and `git commit` to manage changes was straightforward once I understood the workflow.
+
+9. What did you find most confusing in this chapter?
+    The distinction between the working directory, staging area, and repository was initially confusing, but became clearer with practice.
+
+10. How does VS Code make Git easier to use?
+    VS Code provides an integrated Git interface that allows you to view changes, stage files, and make commits directly from the editor without needing to use the command line.
